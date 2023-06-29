@@ -2,4 +2,4 @@
 
 exercícios desenvolvidos no curso da trybe.
 
-para acessar entre nas branchs
+para acessar entre nas branchs.
